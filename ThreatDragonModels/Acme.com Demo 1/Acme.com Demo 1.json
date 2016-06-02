@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Acme.com Demo 1",
+    "owner": "David Anna",
+    "description": "Acme.com ldap management system"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  },
+  "location": {
+    "organisation": "monsieurdanna",
+    "repo": "Threat-Modeling_demo",
+    "branch": "master",
+    "model": "Acme.com Demo 1"
+  }
+}
