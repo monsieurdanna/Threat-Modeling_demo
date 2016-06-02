@@ -142,11 +142,84 @@
                   "class": "connection hasNoOpenThreats isInScope"
                 }
               }
+            },
+            {
+              "type": "tm.Process",
+              "size": {
+                "width": 100,
+                "height": 100
+              },
+              "position": {
+                "x": 593,
+                "y": 45
+              },
+              "angle": 0,
+              "id": "9b347c6d-1694-4971-ad59-4a7f9c4111a7",
+              "z": 5,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "Login Process"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 114,
+                "y": 6
+              },
+              "target": {
+                "x": 89,
+                "y": 219
+              },
+              "vertices": [
+                {
+                  "x": 282,
+                  "y": 88
+                }
+              ],
+              "id": "91b43b2a-37b9-4f20-b442-d2d3b1b7afcb",
+              "z": 6,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Store",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 578,
+                "y": 309
+              },
+              "angle": 0,
+              "id": "3f5dca47-ad44-4301-be38-05fb13ee7af6",
+              "z": 7,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "LDAP dc=adme,dc=com"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
             }
           ]
         },
         "size": {
-          "height": 590,
+          "height": 871.3214111328125,
           "width": 790
         }
       }
